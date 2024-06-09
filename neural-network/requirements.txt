@@ -1,0 +1,4 @@
+numpy==1.26.4
+ucimlrepo==0.0.7
+black==24.4.2
+isort==5.13.2
